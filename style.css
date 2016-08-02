@@ -1,12 +1,21 @@
 
 .welcome{
-  text-align: center;
+    text-align: center;
+    background-color: beige;
+    border: 5px solid red;
+    width: 100%;
+
+    padding:10px;
+
 }
 body {
     margin: 0;
     padding: 0;
-   /*border :5px solid blue;*/
+   border :5px solid blue;
 
 
+}
+ .navbar-nav{
+    border: 5px solid green;
 }
 
