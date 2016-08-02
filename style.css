@@ -1,9 +1,11 @@
 
-
+.welcome{
+  text-align: center;
+}
 body {
     margin: 0;
     padding: 0;
-    border :5px solid blue;
+   /*border :5px solid blue;*/
 
 
 }
