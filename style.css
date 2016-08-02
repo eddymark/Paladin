@@ -1,24 +1,10 @@
-.col-md-12 {
-    background-color: darkseagreen;
 
-}
-
-#welcome {
-    float: left;
-    font-size: 36px;
-}
 
 body {
     margin: 0;
     padding: 0;
+    border :5px solid blue;
+
 
 }
 
-#topNav {
-    display: inline-block;
-    line-height: 1.6em;
-    float: left;
-    width: 100%;
-    text-align: center;
-
-}
