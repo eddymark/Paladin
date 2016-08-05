@@ -4,9 +4,12 @@
     /*background-color: beige;*/
     /*border: 5px solid red;*/
     width: 100vw;
-    height: 10vh;
+    height: 20vh;
+    font-size: 64px;
+    color: #000026;
 
-    padding: 10px;
+
+    padding-top: 50px;
 
 }
 
@@ -14,12 +17,22 @@ body {
     margin: 0;
     padding: 0;
     /*border :5px solid blue;*/
-    background-color: lightgrey;
+    background-color: #CFDBC5;
+    font-family: "Palatino Linotype";
+
+}
+
+.logo {
+    background-image: url("pic/logo.png");
+    background-repeat: no-repeat;
+    /*border: 5px solid red;*/
+    margin-bottom: 20px;
 
 }
 
 .navbar-nav {
-    /*border: 5px solid green;*/
+    border: 5px solid green;
+    float: right;
 
 }
 
