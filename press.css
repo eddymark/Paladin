@@ -1,0 +1,29 @@
+/*this is the company picture*/
+#presshead {
+
+    background-image: url("pic/company.jpg");
+    height: 542px;
+    background-repeat: no-repeat;
+    width: 775px;
+
+}
+
+/*this is the font for the text*/
+#font {
+    font-size: 24px;
+}
+
+.col-md-3 {
+    /*border: 5px solid red;*/
+}
+/*this moves the press description to the right*/
+#pressdesc {
+    /*border: 5px solid blueviolet;*/
+    font-size: 32px;
+    margin-left: 406px;
+}
+/*this moves the press to the right*/
+#move{
+    margin-left: 406px;
+    margin-top: 160px;
+}
