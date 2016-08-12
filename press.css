@@ -5,6 +5,7 @@
     height: 542px;
     background-repeat: no-repeat;
     width: 775px;
+    margin-bottom: 60px;
 
 }
 
@@ -13,8 +14,8 @@
     font-size: 24px;
 }
 
-.col-md-3 {
-    /*border: 5px solid red;*/
+.col-md-4 {
+    border: 5px solid red;
 }
 /*this moves the press description to the right*/
 #pressdesc {
@@ -26,4 +27,14 @@
 #move{
     margin-left: 406px;
     margin-top: 160px;
+}
+#media{
+font-size: 28px;
+
+}
+hr {
+    display: block;
+    height: 10px;
+    border: 0;
+    border-top: 5px solid  #000026;
 }
