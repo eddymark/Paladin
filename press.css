@@ -38,3 +38,11 @@ hr {
     border: 0;
     border-top: 5px solid  #000026;
 }
+.social{
+    margin: 5px;
+    /*border: 5px solid red;*/
+    vertical-align: middle;
+}
+.fa-3x{
+    color: #003366;
+}
