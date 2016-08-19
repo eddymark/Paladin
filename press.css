@@ -14,35 +14,37 @@
     font-size: 24px;
 }
 
-.col-md-4 {
-    border: 5px solid red;
-}
 /*this moves the press description to the right*/
 #pressdesc {
     /*border: 5px solid blueviolet;*/
     font-size: 32px;
     margin-left: 406px;
 }
+
 /*this moves the press to the right*/
-#move{
+#move {
     margin-left: 406px;
     margin-top: 160px;
 }
-#media{
-font-size: 28px;
+
+#media {
+    font-size: 28px;
 
 }
+
 hr {
     display: block;
     height: 10px;
     border: 0;
-    border-top: 5px solid  #000026;
+    border-top: 5px solid #000026;
 }
-.social{
+
+.social {
     margin: 5px;
     /*border: 5px solid red;*/
     vertical-align: middle;
 }
-.fa-3x{
+
+.fa-3x {
     color: #003366;
 }
